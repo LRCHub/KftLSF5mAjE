@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Burning Friday Night",
+  "base_artist": "Lucky Kilimanjaro",
+  "createdAt": "2025-12-02T18:45:07.196663Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Burning Friday Night",
+      "artist": "Lucky Kilimanjaro",
+      "has_synced": true,
+      "path": "select/01_Burning_Friday_Night_Lucky_Kilimanjaro.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Burning Friday Night",
+      "artist": "Lucky Kilimanjaro",
+      "has_synced": false,
+      "path": "select/pl_01_Burning_Friday_Night_Lucky_Kilimanjaro.txt"
+    }
+  ]
+}
